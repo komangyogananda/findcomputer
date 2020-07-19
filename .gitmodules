@@ -1,0 +1,6 @@
+[submodule "findcomputer-be"]
+	path = findcomputer-be
+	url = https://github.com/komangyogananda/findcomputer-be
+[submodule "findcomputer-fe"]
+	path = findcomputer-fe
+	url = https://github.com/komangyogananda/findcomputer-fe
